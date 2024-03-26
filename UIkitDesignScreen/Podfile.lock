@@ -1,0 +1,35 @@
+PODS:
+  - Localize-Swift (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore (= 3.2.0)
+    - Localize-Swift/UIKit (= 3.2.0)
+  - Localize-Swift/LocalizeSwiftCore (3.2.0)
+  - Localize-Swift/UIKit (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore
+  - MarqueeLabel (4.4.0)
+  - PanModal (1.2.7)
+  - SDWebImage (5.18.10):
+    - SDWebImage/Core (= 5.18.10)
+  - SDWebImage/Core (5.18.10)
+
+DEPENDENCIES:
+  - Localize-Swift
+  - MarqueeLabel
+  - PanModal
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Localize-Swift
+    - MarqueeLabel
+    - PanModal
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Localize-Swift: 6f4475136bdb0d7b2882ea3d4ea919d70142b232
+  MarqueeLabel: d2388949ac58d587303178d56a792ba8a001b037
+  PanModal: 3e16ead1a907fb06f4df3f13492fd00149fa4974
+  SDWebImage: fc8f2d48bbfd72ef39d70e981bd24a3f3be53fec
+
+PODFILE CHECKSUM: 92715f22f1ddc0018f17e0ef428e8235517af3ea
+
+COCOAPODS: 1.14.3
